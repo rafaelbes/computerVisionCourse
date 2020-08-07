@@ -6,10 +6,9 @@
 4. O que é uma filtragem de imagens e quais são as máscaras para suavização e detecção de bordas que foram explicadas durante a disciplina?
 5. O que são features?
 6. Qual é a diferença entre matriz intrínseca e extrínseca?
-
-## 7. Escolha *uma* das seguintes perguntas para responder:
-1. Como funciona o algoritmo de segmentação watershed?
-2. Como funciona a transformada de hough na detecção de retas e circunferências?
-3. Como funcionam os algoritmos baseados em área para obter o mapa de disparidade?
-4. Como funciona o RANSAC?
-5. Como funcionam as redes convolucionais?
+7. Escolha *uma* das seguintes perguntas para responder:
+- Como funciona o algoritmo de segmentação watershed?
+- Como funciona a transformada de hough na detecção de retas e circunferências?
+- Como funcionam os algoritmos baseados em área para obter o mapa de disparidade?
+- Como funciona o RANSAC?
+- Como funcionam as redes convolucionais?
