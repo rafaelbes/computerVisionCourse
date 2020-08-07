@@ -8,8 +8,8 @@
 6. Qual é a diferença entre matriz intrínseca e extrínseca?
 
 ## 7. Escolha *uma* das seguintes perguntas para responder:
-a. Como funciona o algoritmo de segmentação watershed?
-b. Como funciona a transformada de hough na detecção de retas e circunferências?
-c. Como funcionam os algoritmos baseados em área para obter o mapa de disparidade?
-d. Como funciona o RANSAC?
-e. Como funcionam as redes convolucionais?
+1. Como funciona o algoritmo de segmentação watershed?
+2. Como funciona a transformada de hough na detecção de retas e circunferências?
+3. Como funcionam os algoritmos baseados em área para obter o mapa de disparidade?
+4. Como funciona o RANSAC?
+5. Como funcionam as redes convolucionais?
